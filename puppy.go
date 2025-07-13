@@ -25,3 +25,7 @@ func BigBarks() string {
 func From100() {
 	fmt.Println("I'm from version 1.0.0")
 }
+
+func From110() {
+	fmt.Println("I'm from version 1.1.0")
+}
